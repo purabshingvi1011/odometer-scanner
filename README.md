@@ -24,7 +24,6 @@ An intelligent mobile-friendly web application that automatically extracts odome
 1. **Clone the repository**
    ```bash
    git clone https://github.com/purabshingvi1011/odometer-scanner.git
-   cd odometer_scanner_app
    ```
 
 2. **Install dependencies**
